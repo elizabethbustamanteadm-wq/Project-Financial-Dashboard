@@ -1,0 +1,7 @@
+Project_ID,Project_Name,Vendor_Name,Start_Date,End_Date,Total_Budget,Actual_Spent,Status
+NY-001,5th Ave Security,SecureLock Inc,2025-01-10,2025-06-30,50000,45000,On Track
+NY-002,Brooklyn Gov Hub,BuildIt Co,2025-02-01,2025-12-15,120000,135000,At Risk
+NY-003,Queens Network,TechConnect,2025-01-15,2025-04-10,35000,12000,On Track
+NY-004,Bronx CCTV Ops,SafeEye,2024-11-20,2025-02-20,85000,90000,Delayed
+NY-005,Staten Island ERP,DataFlow,2025-03-01,2025-09-01,200000,50000,On Track
+NY-006,Central Park Wi-Fi,TechConnect,2025-01-05,2025-03-15,15000,18000,At Risk
