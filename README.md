@@ -1,9 +1,17 @@
-# Project Management & Data Analysis Portfolio
-Hello! I'm Elizabeth. This project demonstrates how I use data to track project budgets.
+# 🗽 NY Project Operations & Financial Dashboard
 
-### What's inside:
-- **SQL Queries:** To find projects that are over budget.
-- **Power BI Dashboard:** A visual report to see status at a glance.
+## 📊 Descripción del Proyecto
+Este Dashboard fue diseñado para monitorear la salud financiera de proyectos operativos en New York. El objetivo es identificar desviaciones presupuestarias y estados críticos de ejecución mediante el análisis de datos SQL.
 
-### Key Skills:
-Project Coordination | Data Integrity | QuickBooks | SQL | Power BI
+## 🛠️ Tecnologías utilizadas
+* **SQL:** Extracción y limpieza de datos (Queries de varianza).
+* **Power BI:** Visualización de datos y diseño de Dashboard Ejecutivo.
+* **Excel/CSV:** Gestión del dataset original de proyectos.
+
+## 📈 Dashboard Preview
+![Dashboard Final](dashboard_final.png)
+
+## 🔑 Key Insights
+* **Brooklyn Gov Hub:** Identificado como proyecto crítico con 15% de excedente presupuestario.
+* **Queens Logistics:** Marcado "At Risk" por falta de ejecución de fondos.
+* **Optimization:** Se simplificó la vista de fechas para reportes de gerencia.
